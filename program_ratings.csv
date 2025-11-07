@@ -1,11 +1,13 @@
-Type of Program,Hour 6,Hour 7,Hour 8,Hour 9,Hour 10,Hour 11,Hour 12,Hour 13,Hour 14,Hour 15,Hour 16,Hour 17,Hour 18,Hour 19,Hour 20,Hour 21,Hour 22,Hour 23
-news,0.1,0.1,0.4,0.3,0.5,0.4,0.3,0.2,0.1,0.2,0.3,0.5,0.5,0.4,0.3,0.2,0.1,0.2
-live_soccer,0.0,0.0,0.0,0.2,0.1,0.3,0.2,0.1,0.4,0.3,0.4,0.5,0.4,0.6,0.4,0.3,0.4,0.3
-movie_a,0.1,0.1,0.2,0.4,0.3,0.2,0.1,0.2,0.3,0.4,0.5,0.4,0.3,0.4,0.3,0.5,0.3,0.4
-movie_b,0.2,0.1,0.1,0.3,0.2,0.1,0.2,0.3,0.4,0.5,0.4,0.3,0.4,0.5,0.4,0.3,0.4,0.5
-reality_show,0.3,0.4,0.3,0.4,0.4,0.5,0.3,0.4,0.5,0.4,0.3,0.2,0.1,0.2,0.3,0.2,0.2,0.3
-tv_series_a,0.2,0.3,0.2,0.1,0.1,0.2,0.2,0.4,0.4,0.3,0.3,0.3,0.5,0.6,0.4,0.5,0.4,0.3
-tv_series_b,0.1,0.2,0.3,0.3,0.2,0.3,0.3,0.1,0.4,0.3,0.4,0.3,0.5,0.3,0.4,0.6,0.4,0.3
-music_program,0.3,0.3,0.3,0.2,0.2,0.1,0.2,0.4,0.3,0.3,0.3,0.3,0.2,0.3,0.2,0.3,0.5,0.3
-documentary,0.3,0.3,0.4,0.3,0.2,0.2,0.3,0.4,0.4,0.3,0.2,0.2,0.2,0.1,0.1,0.3,0.3,0.2
-Boxing,0.4,0.3,0.3,0.2,0.2,0.1,0.1,0.1,0.1,0.3,0.3,0.3,0.2,0.3,0.4,0.3,0.4,0.6
+ProgramID,ProgramName,Genre,Rating
+P001,Morning News,News,4.5
+P002,Cartoon Time,Kids,4.8
+P003,Market Watch,Business,3.9
+P004,Tech Today,Info,4.2
+P005,Cooking Show,Lifestyle,4.7
+P006,History Files,Documentary,4.1
+P007,Pop Music Hour,Music,3.8
+P008,Late Night Movie,Movie,4.3
+P009,Sports Wrap,Sports,4.4
+P010,World Politics,News,4.0
+P011,Gardening Life,Lifestyle,4.6
+P012,Sci-Fi Hour,Movie,4.2
