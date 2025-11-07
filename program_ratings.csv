@@ -1,13 +1,14 @@
 ProgramID,ProgramName,Genre,Rating
 P001,Morning News,News,4.5
-P002,Cartoon Time,Kids,4.8
-P003,Market Watch,Business,3.9
+P002,Cartoon Time,Kids,5.0
+P003,Market Watch,Business,3.8
 P004,Tech Today,Info,4.2
-P005,Cooking Show,Lifestyle,4.7
+P005,Cooking Show,Lifestyle,4.9
 P006,History Files,Documentary,4.1
-P007,Pop Music Hour,Music,3.8
-P008,Late Night Movie,Movie,4.3
+P007,Pop Music Hour,Music,3.9
+P008,Late Night Movie,Movie,4.4
 P009,Sports Wrap,Sports,4.4
-P010,World Politics,News,4.0
-P011,Gardening Life,Lifestyle,4.6
-P012,Sci-Fi Hour,Movie,4.2
+P010,World Politics,News,3.9
+P011,Gardening Life,Lifestyle,4.8
+P012,Sci-Fi Hour,Movie,4.4
+
